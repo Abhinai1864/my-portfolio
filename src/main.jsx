@@ -18,7 +18,7 @@ const projects = [
     number: '01', title: 'Delivery Management System', type: 'Full-stack web application',
     description: 'A shipment management application to create, view, update and delete shipment records, with a React interface connected to a Spring Boot REST API.',
     stack: ['Java', 'Spring Boot', 'Spring Data JPA', 'MySQL', 'React'],
-    github: 'https://github.com/Abhinai1864/Delivery-Management-System', status: 'Project repository',
+    github: 'https://github.com/Abhinai1864/Delhivery-Management-System', status: 'Project repository',
   },
   {
     number: '02', title: 'Image Steganography using LSB', type: 'Cybersecurity project',
@@ -30,7 +30,7 @@ const projects = [
     number: '03', title: 'Detecting Mobile Malicious Webpages', type: 'Academic cybersecurity project',
     description: 'An academic project focused on identifying potentially malicious webpages targeting mobile users.',
     stack: ['Cybersecurity', 'Web security'],
-    github: links.github, status: 'Explore GitHub',
+    github: 'https://github.com/Abhinai1864/Detecting-Mobile-Malicious-Webpages-in-Real-Time-F', status: 'Project repository',
   },
 ]
 
